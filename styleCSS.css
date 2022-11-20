@@ -1,0 +1,74 @@
+header{
+  color: lime;
+  text-align: center;
+}
+
+.button{
+  background-color: lime;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 70px;
+  text-align: center;
+  background-position: center;
+  margin-bottom: 20px;
+}
+
+body{
+  margin-left: 350px;
+  margin-right: 350px;
+}
+
+img{
+  border: 1px;
+  width: 200px;
+}
+
+body{
+  background-image: url('sfondo.jpg');
+  background-size: 100%;
+  font-family: Candara;
+}
+
+main{
+  color: white;
+}
+
+.progr_bar_o{
+  background-color: orange;
+  box-sizing: border-box;
+  color: orange;
+  border-radius: 5px;
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+#backnero{
+  background-color: black;
+  background: rgba(0, 0, 0, 0.5);
+  padding-top: 50px;
+  padding-right: 70px;
+  padding-bottom: 70px;
+  padding-left: 70px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.progr_bar_g{
+  background-color: lime;
+  box-sizing: border-box;
+  color: lime;
+  border-radius: 5px;
+  width: 500px;
+  margin-bottom: 20px;
+}
+
+.progr_bar_r{
+  background-color: red;
+  box-sizing: border-box;
+  color: red;
+  border-radius: 5px;
+  width: 200px;
+}
+ main>span{
+   font-size: 22px;
+ }
